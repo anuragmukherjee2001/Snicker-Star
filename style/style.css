@@ -1,0 +1,13 @@
+
+
+@media screen and (max-width: 425px) {
+    .nav-desk{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .hero-desk{
+        display: none;
+    }
+}

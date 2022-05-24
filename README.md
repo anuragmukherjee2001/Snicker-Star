@@ -1,1 +1,1 @@
-# Snicker-Star
+# This is a website made with tailwind CSS
